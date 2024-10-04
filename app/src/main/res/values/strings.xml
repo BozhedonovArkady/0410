@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">one_card_app</string>
+    <string name="name">Божедонов Аркадий</string>
+    <string name="apple">Главный герой</string>
+    <string name="contact">89969144511</string>
+    <string name="mail">gmail.com</string>
+    <string name="pochta">abozedonov6@gmail.com</string>
+</resources>
